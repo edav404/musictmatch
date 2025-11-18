@@ -1,0 +1,38 @@
+export const users = [
+  {
+    id: 1,
+    username: 'Elena',
+    email: 'elena@musicmatch.com',
+    password: 'password123',
+    avatar: 'https://lh3.googleusercontent.com/aida-public/AB6AXuB1tlHvqKf22Bsyha9kuDXg32IqBrWtAv5y-0Aqgc-_A7qo4L6EPTxA42Mqg-pfd-STvz3_V7pVx1it4h2tXjnqZ7eS41jZRt5Xht1_tco7G_osn746twYmVzKG9EhalVxFE9CiJbGG3ZUJEhvImi68OFj6PXW_1Tk-AQQXzswbvNEwbXdfMn59nB8bgk2mPh2mX-ZLO_x1uo-iDGyfHpB9SVziCDP7sQqLROvH8hJorJzqehfCqxfu1MgERNGztHoIMZqXv7AV34U',
+    favoriteGenres: ['pop', 'reggaeton', 'jazz'],
+    likedSongs: [3, 5],
+  },
+  {
+    id: 2,
+    username: 'Marco',
+    email: 'marco@musicmatch.com',
+    password: 'password123',
+    avatar: 'https://lh3.googleusercontent.com/aida-public/AB6AXuDWhinuJEA_um5jUpakZ648K4I7IGu9iPKhi--nZJQoc6S1lWya_Y7VGAALVHrXu-ItR4B3tsCxEyki9Nc18QriPvsQqflEYkMLdccikDdrWjUCmiH4abG19Pr3iZPi1PQVR4mQRrFyzeJ40odxKrUYBaWcvyCH_OOgBhfkWd2RF_4kWgpdMjKtBkeEgQvCoRyzghhSOedCFuwQjI9mz6UP-gSQtCpCijpHi-met9oZmaORCM3mTSG8fyhVjudgJpFSwQIz6soLdII',
+    favoriteGenres: ['synthwave', 'rock'],
+    likedSongs: [1, 2, 4],
+  },
+  {
+    id: 3,
+    username: 'Sofia',
+    email: 'sofia@musicmatch.com',
+    password: 'password123',
+    avatar: 'https://lh3.googleusercontent.com/aida-public/AB6AXuDyH_lvD4MV6HUM5lbrV5DeTSEXqaAlO8YrqqjAtWqkTkjsy-e4W5lFAkAnY-d_6xOBmHLrCSBdiX5CCUOfbX3dWYbGvjcgBc4Nl52xtYX71S3DtSOetoqHzjOL11BGtwFsJ78N1_FFLjZOSYBMdvhP_8qmuz60IpneX464Vlt1qRYiio2pc6c1wjGBVlUDMpzYXYqZ2ARGIwYCWAscnv8OkNjma9RX67KseMVpsNUCfR6IxuZ_Gh6lHWRIt8qGv7kDsW7YSXSCAz4',
+    favoriteGenres: ['reggaeton', 'pop', 'hiphop'],
+    likedSongs: [5],
+  },
+  {
+    id: 4,
+    username: 'David',
+    email: 'david@musicmatch.com',
+    password: 'password123',
+    avatar: 'https://lh3.googleusercontent.com/aida-public/AB6AXuC50VBG39zGlMahWI1lluWmD5og3SMPsBbKqnFXYki9ETD0pbdJSeJablpqWvwhLlcP8_cJ6zd8KDqcesV2_w_oB8Dmhy7W_L6ji9xfUXP1eYdDY0LsqH2BRwrwvq9upExR00T4VhS8LWnAkumrD1nudfe7maZlrc2fh8fFCNzbkBhEAre05d-dMHiBWJGA3w7nHseLe-WJ132TbdnGIx4ZdAZV84BiuVZ0dKskHsXgRC0cJuPHfXzEgNAXKENOpHsmjyW2mz53Pr8',
+    favoriteGenres: ['indie', 'rock', 'classical'],
+    likedSongs: [1, 2],
+  },
+];
