@@ -23,7 +23,7 @@ Sigue estos pasos para configurar el proyecto en tu entorno de desarrollo local.
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone https://github.com/tu-usuario/musicmatch.git
+    git clone https://github.com/edav404/musictmatch.git
     cd musicmatch
     ```
 
